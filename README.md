@@ -5,11 +5,7 @@ Hi there! I'm running things on the web since I'm old enough to buy a domain nam
 [![Detail of the character cooking on his knees with a big pot, while the one next too him is jumping all excited about something above them](assets/TakingBack01-small_03.webp)](https://nighten.fr)
 I'm also a digital illustrator!
 
-[Check out my resume](assets/CV%20Guilhot%20Nathan.pdf)
-
 [Personal Website (since 2017)](https://nighten.fr)
-
-[Pro Website (mostly about game programming for now)](https://nathan-guilhot.com)
 
 Fediverse/Mastodon : [NIGHTEN@hi.nighten.fr](https://hi.nighten.fr/NIGHTEN)
 
