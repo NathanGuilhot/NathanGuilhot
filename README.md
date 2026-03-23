@@ -7,7 +7,7 @@ Public Projects:
 
 ![GitHub Stats](./profile/stats.svg)
 
-[![Detail of the character cooking on his knees with a big pot, while the one next too him is jumping all excited about something above them](assets/TakingBack01-small_03.webp)](https://nighten.fr)
+[![Detail of an illustration, showing pigeons sitting on a blue roof in a big city](assets/banner02.jpg)](https://nighten.fr)
 I'm also a digital illustrator!
 
 [Personal Website (since 2017)](https://nighten.fr)
