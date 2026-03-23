@@ -5,6 +5,8 @@ Hi there! I'm running things on the web since I'm old enough to buy a domain nam
 Public Projects:
 - [Glit ·.° simple git worktree manager](https://github.com/NathanGuilhot/glit)
 
+![GitHub Stats](./profile/stats.svg)
+
 [![Detail of the character cooking on his knees with a big pot, while the one next too him is jumping all excited about something above them](assets/TakingBack01-small_03.webp)](https://nighten.fr)
 I'm also a digital illustrator!
 
