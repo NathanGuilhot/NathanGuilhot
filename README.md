@@ -4,6 +4,10 @@ Hi there! I'm running things on the web since I'm old enough to buy a domain nam
 
 Public Projects:
 - [Glit ·.° simple git worktree manager](https://github.com/NathanGuilhot/glit)
+- [Sortie - your local-first pinboard ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧](https://github.com/NathanGuilhot/sortie)
+- [Bible Embedded](https://bibleembedded.nighten.fr/)
+- [How to get a PESEL](https://howtogetapesel.nighten.fr/)
+- [Art Grid Generator](https://artgridgenerator.nighten.fr/)
 
 [![Detail of an illustration, showing pigeons sitting on a blue roof in a big city](assets/banner02.jpeg)](https://nighten.fr)
 I'm also a digital illustrator!
